@@ -22,5 +22,5 @@
 * Create a table named "memberInfo" with two columns "name" and "wing" 
 * type of columns should be varchar and let the other fields empty
 
-## A sample user with  Username = "exampleID" and password = "password" will be added to info table when you hit url `http://localhost:8080/sampleProject/user.php`
+### A sample user with  Username = "exampleID" and password = "password" will be added to info table when you hit url `http://localhost:8080/sampleProject/user.php`
 
